@@ -1,0 +1,16 @@
+# ninja log v6
+1	23	1728275977217739041	CMakeFiles/practice1.dir/Point.cpp.o	7758192fad481223
+1	23	1728275977217835582	CMakeFiles/practice1.dir/Rectangle.cpp.o	a3911b2d7cc9188b
+0	233	1728275977217523668	CMakeFiles/practice1.dir/main.cpp.o	eaad4bca52cc17de
+234	260	1728275977450945955	practice1	600375e46146d79f
+4	35	1728279990325367741	CMakeFiles/practice1.dir/Point.cpp.o	7758192fad481223
+4	35	1728279990325506951	CMakeFiles/practice1.dir/Rectangle.cpp.o	a3911b2d7cc9188b
+3	279	1728279990324776066	CMakeFiles/practice1.dir/main.cpp.o	eaad4bca52cc17de
+3	24	1728280256170694638	CMakeFiles/practice1.dir/Rectangle.cpp.o	a3911b2d7cc9188b
+3	216	1728280256170309496	CMakeFiles/practice1.dir/main.cpp.o	eaad4bca52cc17de
+216	246	1728280256383188825	practice1	600375e46146d79f
+2	221	1728280417922038218	CMakeFiles/practice1.dir/main.cpp.o	eaad4bca52cc17de
+2	229	1728280417922262636	CMakeFiles/practice1.dir/Rectangle.cpp.o	a3911b2d7cc9188b
+230	253	1728280418149426853	practice1	600375e46146d79f
+2	271	1728280500908207040	CMakeFiles/practice1.dir/main.cpp.o	eaad4bca52cc17de
+271	297	1728280501176451070	practice1	600375e46146d79f
