@@ -1,0 +1,3 @@
+/Users/kohuijae/Desktop/c++_class/week4/practice1/cmake-build-debug/CMakeFiles/practice1.dir
+/Users/kohuijae/Desktop/c++_class/week4/practice1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kohuijae/Desktop/c++_class/week4/practice1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
