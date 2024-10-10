@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(practice1 main.cpp
         Complex.cpp
-        Complex.h)
+        Complex.h
+        ComplexList.cpp
+        ComplexList.h)

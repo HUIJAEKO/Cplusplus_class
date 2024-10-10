@@ -7,13 +7,13 @@ private:
     double image;
 
 public:
-    Complex();  // 기본 생성자
-    Complex(double r, double i);  // 실수부, 허수부 초기화 생성자
+    Complex();
+    Complex(double r, double i);
 
-    void setComplex(double r, double i);  // 복소수 설정 함수
-    double getReal() const;  // 실수부 반환 함수
-    double getImage() const;  // 허수부 반환 함수
-    void showComplex() const;  // 복소수 출력 함수 (2+3i 형식)
+    void setComplex(double r, double i);
+    double getReal() const;
+    double getImage() const;
+    void showComplex() const;
 };
 
 inline Complex::Complex() {
